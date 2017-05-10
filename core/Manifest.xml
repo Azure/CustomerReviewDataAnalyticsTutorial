@@ -8,19 +8,13 @@
     <Description>Customer Review Analytics Tutorial from China Cloud Group.</Description>
     <Summary src="markdown/Summary.md" format="markdown" />
     <EstimatedTime>20 Minutes</EstimatedTime>
-    <Ingredients>
-        <Ingredient>Web</Ingredient>
-        <Ingredient>StorageAccount</Ingredient>
-        <Ingredient>Sql</Ingredient>
-        <Ingredient>PowerBI</Ingredient>
-    </Ingredients>
     <Feedback email="ccgdatasln@microsoft.com" />
     <Tags>
         <Tag>Retail</Tag>
         <Tag>Python</Tag>
         <Tag>Text Classification</Tag>
         <Tag>Text Analytics</Tag>
-        <Tag>Sentiment Analysis<Tag>
+        <Tag>Sentiment Analysis</Tag>
     </Tags>
     <RelatedLinks>
         <RelatedLink caption="Code on GitHub" address="https://github.com/Azure/CustomerReviewDataAnalyticsTutorial" />
