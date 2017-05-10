@@ -4,7 +4,7 @@ For retail company, the best way to understand the quality of product and servic
 Customer Feedback Analytics Tutorial is a data analytics project for digital marketing, it is built atop NLP models and Azure services. The customer review data used in this tutorial is for IT products, which crawled from the most popular e-commerce websites in China - JD and TMall. The tutorial can calculate the customer satisfaction from multi-dimensions (e.g. pre-sales service, after-sales service, pricing, etc.) to help market team understanding major problems reported by customers. The major model used in the solution is Chinese sentiment analytics model, this model had trained with Azure services based on Chinese review data.
 
 ## Technical Diagram
-![Technical Diagram](https://github.com/Azure/CustomerReviewDataAnalyticsTutorial/blob/master/assets/CRDAnalytics.png)
+![Technical Diagram](https://raw.githubusercontent.com/Azure/CustomerReviewDataAnalyticsTutorial/master/assets/CRDAnalytics.png)
 
 ## Technical Details
 The tutorial uses many Azure services to build e2e business pipeline.
