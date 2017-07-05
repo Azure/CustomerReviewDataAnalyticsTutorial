@@ -32,6 +32,7 @@
                 <Add key="AzureWebJobsDashboard" value="DefaultEndpointsProtocol=https;AccountName={Outputs.storageAccountName};AccountKey={Outputs.storageAccountKey}" />
                 <Add key="AzureWebJobsStorage" value="DefaultEndpointsProtocol=https;AccountName={Outputs.storageAccountName};AccountKey={Outputs.storageAccountKey}" />
                 <Add key="WEBSITE_CONTENTAZUREFILECONNECTIONSTRING" value="DefaultEndpointsProtocol=https;AccountName={Outputs.storageAccountName};AccountKey={Outputs.storageAccountKey}" />
+                <Add key="WEBSITE_CONTENTSHARE" value="{Outputs.storageAccountName}" />
                 <Add key="WEBSITE_NODE_DEFAULT_VERSION" value="6.5.0" />
             </AppSettings>
         </AzureFunctionApp>
